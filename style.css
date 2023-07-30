@@ -1,0 +1,37 @@
+* {
+    background-color: gray;
+}
+h1{
+    color: blue;
+    font-size: 50px;
+
+}
+.WMA{
+    color: rgb(0, 255, 162);
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size-adjust: initial;
+}
+.FLU{
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.D{
+    color: aliceblue;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.P{
+    font-size: 30px;
+}
+.smit{
+    position: fixed;
+    /* padding-block-end: 30px; */
+    /* right: 50px; */
+    position: static;
+
+}
+.HTML{
+    position: absolute;
+}
